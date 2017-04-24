@@ -1,0 +1,9 @@
+vendor/
+composer.lock
+.php_cs.cache
+composer.phar
+package.tar
+/packages.json
+/.phpunit
+.idea
+.vscode
