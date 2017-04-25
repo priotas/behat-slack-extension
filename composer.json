@@ -1,6 +1,6 @@
 {
     "name": "priotas/behat-slack-extension",
-    "description": "A behat extension for sending screenshots from behat to slack",
+    "description": "A behat extension for sending files from behat to slack",
     "type": "behat-extension",
     "license": "Apache-2.0",
     "require": {
