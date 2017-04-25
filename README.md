@@ -19,7 +19,7 @@ profile_name:
 ## Environment Variable
 
 ```BASH
-export BEHAT_PARAMS='{"extensions" : {"Priotas\\Behat\\SlackExtension:" : {"slackToken" : "xoxb-0000000000-xxxxxxxxxxxxxxxxxxxxxxxx", "slackChannel": "XXXXXXXXX"}}}'
+export BEHAT_PARAMS='{"extensions" : {"Priotas\\Behat\\SlackExtension" : {"slackToken" : "xoxb-0000000000-xxxxxxxxxxxxxxxxxxxxxxxx", "slackChannel": "XXXXXXXXX"}}}'
 ```
 
 # Usage
