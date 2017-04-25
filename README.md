@@ -8,7 +8,7 @@
 
 ## behat.yml
 
-```BASH
+```YML
 profile_name:
     extensions:
         Priotas\Behat\SlackExtension:
